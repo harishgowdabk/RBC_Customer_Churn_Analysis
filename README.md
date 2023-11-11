@@ -46,6 +46,8 @@ Exited— whether or not the customer left the bank. 0 represents Retain (Still 
 
 Bank DOJ — date when the Customer associated/joined with the bank
 
+
+
 # End To End - TASKS Performed - Life Cycle of a Data Analyst
 
 
@@ -58,7 +60,13 @@ Additional Information (DAX Calculations)
 RLS
 • Created a Workspace (Provided workspace access within team)
 
-• Published • Dashboard • Gateway • Schedule Refresh • Added Roles, Subscribe, alerts • Shared the Report • Created App and Shared
+• Published
+• Dashboard
+• Gateway 
+• Schedule Refresh 
+• Added Roles, Subscribe, alerts 
+• Shared the Report
+• Created App and Shared
 
 Part 1 • Requirement Gathering / Data Collection
 Part 2 • Data transformations / Data Computations
