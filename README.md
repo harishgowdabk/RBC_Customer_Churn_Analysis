@@ -45,3 +45,21 @@ Estimated Salary—as with balance, people with lower salaries are more likely t
 Exited— whether or not the customer left the bank. 0 represents Retain (Still they are with the bank) 1 represents Exit
 
 Bank DOJ — date when the Customer associated/joined with the bank
+
+End To End - TASKS Performed - Life Cycle of a Data Analyst
+
+Requirement Gathering (BRD / FRD)
+Data Collections (Database / CSV/ Excel)
+Data Modelling
+Data Cleaning / Data Pre-processing
+UI Report (Charts / Custom Charts)
+Additional Information (DAX Calculations)
+RLS
+• Created a Workspace (Provided workspace access within team)
+
+• Published • Dashboard • Gateway • Schedule Refresh • Added Roles, Subscribe, alerts • Shared the Report • Created App and Shared
+
+Part 1 • Requirement Gathering / Data Collection
+Part 2 • Data transformations / Data Computations
+Part 3 • Power BI Reports / UI
+Part 4 • Dashboard / Publishing
