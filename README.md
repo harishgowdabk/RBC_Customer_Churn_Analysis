@@ -58,8 +58,9 @@ Data Cleaning / Data Pre-processing
 UI Report (Charts / Custom Charts)
 Additional Information (DAX Calculations)
 RLS
-• Created a Workspace (Provided workspace access within team)
 
+
+• Created a Workspace (Provided workspace access within team)
 • Published
 • Dashboard
 • Gateway 
