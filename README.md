@@ -46,7 +46,8 @@ Exited— whether or not the customer left the bank. 0 represents Retain (Still 
 
 Bank DOJ — date when the Customer associated/joined with the bank
 
-End To End - TASKS Performed - Life Cycle of a Data Analyst
+**End To End - TASKS Performed - Life Cycle of a Data Analyst**
+
 
 Requirement Gathering (BRD / FRD)
 Data Collections (Database / CSV/ Excel)
